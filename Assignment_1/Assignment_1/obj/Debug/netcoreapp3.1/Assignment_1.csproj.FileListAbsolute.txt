@@ -1,0 +1,13 @@
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfo.cs
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.exe
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.deps.json
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.json
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.dev.json
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.dll
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.pdb
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.dll
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.pdb
+C:\Users\Leo\Desktop\algorithm\Assignment\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.genruntimeconfig.cache
